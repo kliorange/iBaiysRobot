@@ -1,5 +1,4 @@
- #include <Servo.h>   //调用舵机的函数库
-
+#include <Servo.h>   //调用舵机的函数库
 #define LED 7   // light
 #define KEY 12  // key press
 
